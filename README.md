@@ -1,4 +1,4 @@
 # temp-repo
 this is my first repository.
 <br>
-author gaurav singh
+author gaurav (singh)
